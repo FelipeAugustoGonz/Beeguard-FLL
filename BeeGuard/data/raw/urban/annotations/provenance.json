@@ -1,0 +1,12 @@
+{
+  "inspections_2021.csv": {
+    "url": "https://raw.githubusercontent.com/mahsa-abdollahi/UrBAN/main/data/annotations/inspections_2021.csv",
+    "retrieved_date": "2026-10-05",
+    "sha256": "346261eda9f36ef36814f11cbabc77a361a9a8932ecca6c2bd0905e37321b3b6"
+  },
+  "inspections_2022.csv": {
+    "url": "https://raw.githubusercontent.com/mahsa-abdollahi/UrBAN/main/data/annotations/inspections_2022.csv",
+    "retrieved_date": "2026-10-05",
+    "sha256": "577520c47bfe07658cade13ba90c6f95bee5a1dd092b7ede304350095ca7f1c1"
+  }
+}
